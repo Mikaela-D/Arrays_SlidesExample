@@ -4,16 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0b1dc98-c4d3-4b7a-a4b3-c3bc989c5836" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/temp" afterDir="false" />
+    <list default="true" id="d0b1dc98-c4d3-4b7a-a4b3-c3bc989c5836" name="Changes" comment="New project with Array class and temp file">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ie/atu/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ie/atu/Array.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -47,6 +44,26 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ie.atu.Array" />
+      <module name="Arrays_SlidesExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ie.atu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1673216782289</updated>
-      <workItem from="1673216783954" duration="497000" />
+      <workItem from="1673216783954" duration="956000" />
     </task>
+    <task id="LOCAL-00001" summary="New project with Array class and temp file">
+      <created>1673217332159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673217332159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="New project with Array class and temp file" />
+    <option name="LAST_COMMIT_MESSAGE" value="New project with Array class and temp file" />
   </component>
 </project>
